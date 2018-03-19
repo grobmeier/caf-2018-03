@@ -4,8 +4,6 @@ Rate
  - timestamp of request
  - origin
  
- HELLO WORLD
- 
  ExchangeReader
    +--Response readPrice( Request )
    
